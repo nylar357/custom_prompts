@@ -1,3 +1,3 @@
 # custom_prompts
 
-[preview]ghost_photo.png
+![preview](ghost_photo.png)
